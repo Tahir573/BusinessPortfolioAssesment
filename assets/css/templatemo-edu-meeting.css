@@ -2045,4 +2045,15 @@ responsive
   margin: 5px 0px 5px 0px;
   border-radius: 5px;
 }
+.course-desc {
+  padding-left: 18px;
+  margin-top: 10px;
+  font-size: 14px;
+  color: #555;
+}
+.course-desc li {
+  margin-bottom: 4px;
+}
+
 /* footer css */
+
